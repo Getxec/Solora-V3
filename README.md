@@ -9,7 +9,8 @@
 
 
 **Description**:
-🚀 **Solara Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay.
+🚀 **Solara Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay. **Solara** is a fast, reliable, and keyless executor for Windows, designed to enhance your Roblox gaming experience. Solara is a robust and user-friendly Roblox injector designed to enhance your gaming experience by allowing you to run custom scripts and modifications.
+
 
 
 
